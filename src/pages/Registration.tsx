@@ -42,7 +42,7 @@ grid-template-rows:repeat(2, 1fr);
 `;
 
 
-const Login: React.FC = () => {
+const Registration: React.FC = () => {
   return (
     <LoginPageFrame>
       <CustomContainer>
@@ -116,4 +116,4 @@ const Login: React.FC = () => {
   );
 };
 
-export default Login;
+export default Registration;
